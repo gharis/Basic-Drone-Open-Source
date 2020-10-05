@@ -4,24 +4,25 @@
 
 Components/ modules 
 
-ESC 
+ESC , Brushless motors  and Properlers - Combo RC A2212 13T 1000Kv Brushless Motor + 30A Brushless ESC + 1045 Prop
 
-Brushless motors 
+Remote transmitter - FlySky FS-i6 2.4G 6CH AFHDS RC Transmitter   
 
-Properlers 
+Receiver - FS-iA6B Receiver
+ 
+Filight contorler - Crius AIO Pro V2
 
-Remote transmitter 
+Filight contorler program flasher tools 
+GPS - Crius U-blox NEO-6M V3.1
 
-Receiver 
+Frame   F450 HJ450 DJI
+Landing gear 4x Tall Landing Skid Gear Quadcopter legs
 
-Filight contorler 
+Battery - 7.4V, 2200mAh battery
 
-Filight contorler program flasher tools
+charger - iMAX B6 AC Lipo NiMh Li-ion Ni-Cd RC
 
-Frame 
-
-Battery 
-
+Battery meter - Battery Voltage Tester Battery Monitor Buzzer Alarm For 1S-8S Lipo Battery
 
 ## Tuning
 
